@@ -1,6 +1,7 @@
 ---
 title: Article 01
 date: 2017-03-09 22:31:00 Z
+layout: post
 ---
 
 ![galaxy-657c74.jpg](/uploads/galaxy-657c74.jpg)
