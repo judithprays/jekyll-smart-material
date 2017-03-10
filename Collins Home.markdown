@@ -1,5 +1,5 @@
 ---
-title: Home
+title: collins home
 date: 2017-03-09 22:15:00 Z
 layout: page
 ---
